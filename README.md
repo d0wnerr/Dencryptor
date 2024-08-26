@@ -23,4 +23,4 @@ Open decrypt.exe and a window will appear asking for an **encrypted file** and a
 
 ![Decrypt](https://github.com/d0wnerr/Dencryptor/blob/main/img/decrypt.png)
 
-Once valid files are provided, it will decrypt them and you have the option to copy the text or save it as a text file.
+Once valid files are provided, it will decrypt the original message. You can copy the text or save it as a text file.
